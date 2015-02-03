@@ -1,0 +1,10 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =8
+let g:netrw_dirhist_1='/Users/johann/Projects-git/indiecam-instantraw/instantraw-software'
+let g:netrw_dirhist_2='/Volumes/DatenSSD/Downloads/libsndfile-1.0.25'
+let g:netrw_dirhist_3='/Volumes/DatenSSD/Projects-git/indiecam-instantrawtool'
+let g:netrw_dirhist_4='/Users/johann/bin'
+let g:netrw_dirhist_5='/Users/johann/.vim'
+let g:netrw_dirhist_6='/usr/local/share/adaproject'
+let g:netrw_dirhist_7='/Users/johann/Projects-git/indiecam-indieRCP/AVR/indieRCP-flash'
+let g:netrw_dirhist_8='/Users/johann/Downloads/hercules-3.09'
